@@ -1,0 +1,358 @@
+h1{
+	text-align: center;
+}
+
+
+
+/* td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+}
+.none{
+    display: none;
+}
+
+  .buttonSimvol{
+	border: 1px solid #000;
+	padding: 5px;
+	margin: 2px;
+	font-size: 10px;
+   }
+   #btnCapsLock{
+	border: 1px solid #000;
+	padding: 10px;
+
+   }
+   #input{
+	margin-bottom: 30px;
+   }
+
+   #MonthNumbers {
+	display: flex;
+	flex-wrap: wrap;
+	list-style-type: none;
+	padding-left: 0;
+  }
+  
+  #MonthNumbers li {
+	margin-right: 10px;
+  }
+
+  #tagInput{
+	width: 300px;
+	height: 30px;
+	font-size: 16px;
+	margin-bottom: 10px;
+  }
+
+  * {
+	box-sizing: border-box;
+}
+#parent {
+	margin: 0 auto;
+	width: 600px;
+}
+#input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+#table {
+	width: 100%;
+}
+#table td {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+.red{
+	color:red
+}
+.green{
+	color: green;
+}
+
+#parent {
+	text-align: center;
+}
+#parent > * {
+	margin-bottom: 10px;
+}
+
+#timer {
+	font-size: 18px;
+}
+#text {
+	font-size: 17px;
+	font-style: italic;
+}
+
+button {
+	padding: 5px 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
+button:not(.active) {
+	display: none;
+}
+#parent {
+	position: relative;
+}
+#elem {
+	padding: 5px;
+	font-size: 18px;
+}
+
+#parent ul {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: white;
+}
+#parent li {
+	border: 1px solid gray;
+	font-size: 18px;
+	padding: 5px;
+}
+#parent li:hover {
+	border: 1px solid black;
+	cursor: pointer;
+}
+
+
+.spoiler:not(.active) {
+	display: none;
+} */
+
+
+/* #parent {
+	margin: 0 auto;
+	width: 400px;
+}
+
+.menu a {
+	margin-right: 5px;
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	border: 1px solid gray;
+}
+.menu a:hover {
+	background: #f8f8f8;
+}
+.menu a.active {
+	border-color: transparent;
+	background: #f2f2f2;
+}
+
+.tabs .tab:not(.active) {
+	display: none;
+}
+.tabs .tab {
+	padding: 10px;
+	background: #f2f2f2;
+	height: 300px;
+} */
+
+
+/* #parent {
+	margin: 0 auto;
+	width: 400px;
+}
+.tab {
+	margin-bottom: 10px;
+}
+
+.tab .link a {
+	display: block;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	background: #f8f8f8;
+	border: 1px solid gray;
+}
+.tab .link:hover a {
+	background: #f2f2f2;
+}
+
+.tab:not(.active) .text {
+	display: none;
+}
+.tab .text {
+	border: 1px dashed gray;
+	border-top: none;
+	
+	padding: 10px;
+	height: 300px;
+} */
+
+
+/* body {
+	text-align: center;
+}
+#input, #list {
+	display: inline-block;
+}
+#list {
+	padding: 0;
+	list-style-type: none;
+}
+#list span {
+	margin-right: 5px;
+}
+#list .remove, #list .mark {
+	color: blue;
+	cursor: pointer;
+}
+#list .remove:hover, #list .mark:hover {
+	text-decoration: underline;
+}
+
+#list .done .task {
+	text-decoration: line-through;
+}  */
+
+
+/* * {
+	box-sizing: border-box;
+}
+#parent {
+	margin: 0 auto;
+	width: 500px;
+}
+
+#form {
+	display: flex;
+	margin-bottom: 15px;
+}
+#form input {
+	padding: 8px;
+	width: 24%;
+	margin: 0 0.5% 10px 0.5%;
+}
+
+h2 {
+	margin-top: 0;
+	margin-bottom: 7px;
+}
+
+#table {
+	width: 100%;
+	margin-bottom: 10px;
+}
+#table td, #table th {
+	padding: 8px;
+	text-align: center;
+	border: 1px solid black;
+}
+#table td.remove {
+	color: blue;
+	cursor: pointer;
+	text-decoration: underline;
+}
+#table td.remove:hover {
+	text-decoration: none;
+}
+
+#result {
+	text-align: right;
+	margin-right: 10px;
+} */
+
+
+/* .right {
+	border: 1px solid green;
+}
+.wrong {
+	border: 1px solid red;
+} */
+
+
+/* #field td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+} */
+
+/* #field td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+}
+.red {
+	background: red;
+}
+.green {
+	background: green;
+}
+.blue {
+	background: blue;
+} */
+
+
+/* #parent {
+	text-align: center;
+}
+#calendar {
+	display: inline-block;
+}
+#calendar td, #calendar th {
+	padding: 5px 12px;
+	border: 1px solid black;
+	text-align: center;
+} */
+
+
+/* #parent {
+	text-align: center;
+}
+#calendar {
+	display: inline-block;
+}
+#calendar td, #calendar th {
+	padding: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+#calendar .info {
+	text-align: center;
+} */
+
+
+#parent {
+	text-align: center;
+}
+#calendar {
+	display: inline-block;
+}
+#calendar td, #calendar th {
+	padding: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+#calendar .nav, #calendar .info {
+	text-align: center;
+}
+#calendar a {
+	color: blue;
+	font-size: 25px;
+	text-decoration: none;
+}
+#calendar a:hover {
+	color: red;
+}
+
+#calendar .active {
+	color: red;
+}
